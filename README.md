@@ -4,7 +4,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Mosaic/Cache/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Mosaic/Cache/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/Mosaic/Cache/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Mosaic/Cache/?branch=master)
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/66bb93af-6378-481f-a06f-9409f2f0eaca/big.png)](https://insight.sensiolabs.com/projects/66bb93af-6378-481f-a06f-9409f2f0eaca)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/97e8ab0c-7573-4601-8ae9-fe2b3ce589e3/big.png)](https://insight.sensiolabs.com/projects/97e8ab0c-7573-4601-8ae9-fe2b3ce589e3)
 
 ## Cache component
 
