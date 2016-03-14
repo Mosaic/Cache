@@ -40,6 +40,7 @@ class PhpCacheProvider implements DefinitionProviderInterface
         return [
             Cache::class => function () {
 
+                $pools = [];
                 if (count($this->pools) < 1) {
                     $pools[] = new ArrayCachePool;
                 } else {
