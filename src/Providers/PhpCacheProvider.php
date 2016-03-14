@@ -16,7 +16,7 @@ class PhpCacheProvider implements DefinitionProviderInterface
     private $pools = [];
 
     /**
-     * @param array $pools
+     * @param callable[] $pools
      */
     public function __construct(array $pools)
     {
